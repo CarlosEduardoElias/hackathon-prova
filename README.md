@@ -1,2 +1,2 @@
 # Hackathon
-save project in backup
+Sistema apresentado na disciplina de Desenvolvimento de Sistemas para Web.
